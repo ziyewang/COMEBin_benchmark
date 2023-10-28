@@ -2,7 +2,6 @@
 
 benchmark: commands for running the binning methods, the assembler and the analyzing.
 
-visualization: codes for reproducing figures in the manuscript.
+visualization: codes for reproducing figures in the manuscript and intermediate results.
 
-results.zip: intermediate results.
 
