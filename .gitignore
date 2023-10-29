@@ -2,3 +2,5 @@
 /venv/
 /visualization/.ipynb_checkpoints
 /benchmark/.Rhistory
+.DS_Store
+.idea
