@@ -1,2 +1,4 @@
 # Project exclude paths
 /venv/
+/visualization/.ipynb_checkpoints
+/benchmark/.Rhistory
